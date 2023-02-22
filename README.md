@@ -1,9 +1,7 @@
 # ClimatePolicyFossilFuels
 This the code for the paper: "Climate policy does not discourage oil and gas investments and leads to investment leakage dynamics"
 
-#Authors: Francesca Larosa, Royal Institute of Technology (KTH), Stockholm, Sweden
-          Figo Lau, University College London, London, United Kingdom
-          Nadia Ameli, University College London, London, United Kingdom
+#Authors: Francesca Larosa, Figo Lau and Nadia Ameli
 
 #Paper's corresponding author: Francesca Larosa (larosa@kth.se / f.larosa@ucl.ac.uk)
 #Author of the code: Francesca Larosa
