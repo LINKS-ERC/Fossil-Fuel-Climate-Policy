@@ -1,5 +1,5 @@
 # ClimatePolicyFossilFuels
-This the code for the paper: "Climate policy does not discourage oil and gas investments and leads to investment leakage dynamics"
+This folder contains the code and materials for the paper: "Climate policy does not discourage oil and gas investments and leads to investment leakage dynamics"
 
 #Authors: Francesca Larosa, Figo Lau and Nadia Ameli
 #
